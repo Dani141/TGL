@@ -5,7 +5,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Circule c = new Circule(5);
+            console.writeLine(c.CalculateArea());
         }
     }
 }

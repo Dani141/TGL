@@ -1,0 +1,5 @@
+
+puclic abstract class Figure{
+    
+
+}

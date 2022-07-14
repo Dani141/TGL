@@ -6,7 +6,7 @@ public class Triangle: Figure{
     public double C {get;}
 
 
-    public Rectangle(double a, double b, double c){
+    public Triangle(double a, double b, double c){
       A=a;
       B=b;
       C=c;

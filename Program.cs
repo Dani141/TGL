@@ -5,10 +5,10 @@
         {
             static void Main(string[] args)
             {
-                /*//Task Lecture 3
+                /*//Task Lecture 3.
                 L3();*/
 
-                //Task Practice 2
+                //Task Practice 2.
                 P2();
             }
             public static void L3(){

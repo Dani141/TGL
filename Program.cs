@@ -5,23 +5,10 @@
         {
             static void Main(string[] args)
             {
-                /*//Task Lecture 3.
-                L3();*/
-
                 //Task Practice 2.
-                P2();
+                CharadaGame();
             }
-            public static void L3(){
-                Task1 t1 = new Task1(6);
-
-                System.Console.WriteLine("Factorial");
-                System.Console.WriteLine(t1.factorialFunction());
-
-                System.Console.WriteLine("Fibonacci");
-                List<int> l=t1.fibonacciFunction();
-                l.ForEach(i=>Console.WriteLine("{0}",i));
-            }
-            public static void P2(){
+            public static void CharadaGame(){
                 
                 LogicEvents le = new LogicEvents();
 
